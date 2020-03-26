@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thedoctor.top/navigation</id>
-    <title>navigation</title>
-    <updated>2020-03-24T14:01:18.843Z</updated>
+    <title>郝先森的导航</title>
+    <updated>2020-03-26T09:47:11.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://thedoctor.top/navigation"/>
     <link rel="self" href="https://thedoctor.top/navigation/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>工欲善其事，必先利其器。</subtitle>
     <logo>https://thedoctor.top/navigation/images/avatar.png</logo>
     <icon>https://thedoctor.top/navigation/favicon.ico</icon>
-    <rights>All rights reserved 2020, navigation</rights>
+    <rights>All rights reserved 2020, 郝先森的导航</rights>
 </feed>
